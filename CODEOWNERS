@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sorokakateryna-source
+/src/backend/database.py      @sorokakateryna-source
+/src/backend/routers/auth.py  @sorokakateryna-source
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sorokakateryna-source
